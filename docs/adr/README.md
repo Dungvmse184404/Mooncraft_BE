@@ -18,3 +18,5 @@ Tên file: `NNNN-ten-quyet-dinh.md` (số tăng dần toàn cục). Mở đầu 
 | 0001 | [0001-role-bitmask.md](./0001-role-bitmask.md) | Accepted | Role lưu bitmask trên `users.roles`, không có bảng Role |
 | 0002 | [0002-platform-store-as-vendor.md](./0002-platform-store-as-vendor.md) | Accepted | Gian hàng của sàn là một Store `IsPlatformOwned`, không tách luồng |
 | 0003 | [0003-checkout-split-orders-single-payment.md](./0003-checkout-split-orders-single-payment.md) | Proposed | Một checkout → N Order (mỗi cửa hàng một đơn) → 1 Payment |
+| 0004 | [0004-shipping-ghn.md](./0004-shipping-ghn.md) | Accepted | Vận chuyển qua GHN, một tài khoản của sàn, mã GHN trên `District`/`Ward` |
+| 0005 | [0005-postgresql-int-pk-vnd.md](./0005-postgresql-int-pk-vnd.md) | Proposed | PostgreSQL, PK `int identity`, tiền `numeric(12,0)`, enum `smallint` |

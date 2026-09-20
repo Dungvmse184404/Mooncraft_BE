@@ -1,6 +1,6 @@
 # MoonCraft — Tài liệu backend
 
-Điểm vào duy nhất của mọi tài liệu. Bối cảnh dự án dành cho AI (giai đoạn, quyết định đã chốt, việc đang mở): [`../../AGENTS.md`](../../AGENTS.md) ở gốc repo.
+Điểm vào duy nhất của mọi tài liệu. Bối cảnh dự án dành cho AI (giai đoạn, quyết định đã chốt, việc đang mở): [`../CLAUDE.md`](../CLAUDE.md); quy tắc làm việc / naming: [`../AGENTS.md`](../AGENTS.md).
 
 Đọc theo nhu cầu:
 
